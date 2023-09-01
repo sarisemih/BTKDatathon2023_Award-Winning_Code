@@ -1,4 +1,4 @@
-# BTKDatathon2023_Award-Winning_Code
+# Datathon2023 Award-Winning Code
 
 BTK Academy in collaboration with Google & Girişimcilik Vakfı have created a datathon (Datahon2023) in the form of a competition where groups are expected to build models on the given training set, perform an 8-class classification, and obtain the best performance on the unlabeled test set (where the labels are only available within the Kaggle's submission system).
 
